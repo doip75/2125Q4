@@ -106,7 +106,7 @@ The highest gets 50%; the lowest gets 10%. Others are scored in order.
 - execution time: 5 minute maximum
 - Only the `randomForest` package can be used as a predictive model, no additional packages are allowed.
 - Split *k*-fold by yourself, the function `rfcv` is not allowed.
-- If you cheat, you'll get zero for this assignment, and there's no chance to make up for it. 😠 
+- If you cheat, you'll get 0%, and there's no chance to make up for it. 😠 
   - i.e., makeup performance.csv without *k*-fold process or other cheating methods
 
 ## References
