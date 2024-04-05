@@ -2,8 +2,7 @@
 
 ![PredictProtein](img1.png)
 
-#### Name: your name
-#### ID: student ID
+
 
 ## Description
 Perform *k*-fold cross-validation for tuning the following parameters of a random forest model.
